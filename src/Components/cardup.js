@@ -6,7 +6,7 @@ export default function Cardup(props) {
 return    (
 <div className="flex flex-row  justify-between" >
  <div className="flex flex-row" >
-    <img src={Money}  alt="money"  height="50px"/>
+    <img src={Money}  alt="money"  height="51px"/>
     <h1  className="mx-3 font-Outfit font-normal">SOUS-TOTAL</h1>
 </div> 
   
