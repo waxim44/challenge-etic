@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;800;900&display=swap');
+
+.text-montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+.text-inter {
+  font-family: "Inter", sans-serif;
+}
